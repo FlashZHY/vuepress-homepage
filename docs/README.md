@@ -34,9 +34,9 @@ My interests include: Basketball, [Photography](https://www.instagram.com/flashz
 
 ## Education
 
-- **Simon Business School, University of Rochester, Rochester, NY**
+- **Simon Business School, University of Rochester, Rochester, NY** <br/>
 Sep. 2019 - Present
-- **School of Management, Nanjing Audit University, China**
+- **School of Management, Nanjing Audit University, China** <br/>
 Sep. 2015 - June. 2019
 - **Alliance Manchester Business School, University of Manchester, Manchester, UK** <br/>
 July. 2017 - Aug. 2017
@@ -46,6 +46,10 @@ July. 2017 - Aug. 2017
 ### Contests
 
 - First place in **The Hogwarts House Cup**
+
+### Scholarships
+- **National Scholarship** 2017
+
 
 
 <!-- Custom style for this page -->
