@@ -34,9 +34,12 @@ My interests include: Basketball, [Photography](https://www.instagram.com/flashz
 
 ## Education
 
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
-
+- **Simon Business School, University of Rochester, Rochester, NY**
+Sep. 2019 - Present
+- **School of Management, Nanjing Audit University, China**
+Sep. 2015 - June. 2019
+- **Alliance Manchester Business School, University of Manchester, Manchester, UK** <br/>
+July. 2017 - Aug. 2017
 
 ## Awards & Honors
 
