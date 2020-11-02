@@ -14,7 +14,7 @@ Here are some works of mine :books:
   
    This project helps recruiter find the best match for a particular job from a bunch of resumes by building up a scoring model to score each candidate based on the degree of match.
    
-   Image Source: pixabay
+   Image Source: Pixabay
   
   [[Jupyter Notebook](https://github.com/FlashZHY/Use-NLP-to-Score-Candidate/blob/main/NLP.ipynb)] [[github](https://github.com/FlashZHY/Use-NLP-to-Score-Candidate)]
 
