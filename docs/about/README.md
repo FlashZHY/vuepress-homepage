@@ -2,14 +2,14 @@
 pageClass: about-page
 description: 'The biography and information about me.'
 avatar: /profile.jpg
-head: 'Harry Potter'
-info: 'Student at Hogwarts School'
+head: 'Hengyuan'
+info: 'Master Student at UR (Seeking full-time job)'
 interests: 'Interests: Quidditch and Wizard chess.'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
+  link: https://github.com/FlashZHY
 - title: linkedin
-  link: https://www.linkedin.com
+  link: https://www.linkedin.com/in/hengyuan-zhang-780877165/
 - title: instagram
   link: https://www.instagram.com
 - title: email
