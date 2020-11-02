@@ -45,6 +45,18 @@ Here are some works of mine :books:
 </ProjectCard>
 
 
+<ProjectCard image="/projects/4.jpeg">
+  
+  **Get Financial Data From FMP**
+  
+   This project is step-by-step tutorial of downloading financial data using API Key from FinancialModellingPrep.
+ 
+  
+  [[Jupyter Notebook](https://github.com/FlashZHY/Get-Financial-Data-From-FMP/blob/master/main.ipynb)] [[github](https://github.com/FlashZHY/Get-Financial-Data-From-FMP)]
+
+</ProjectCard>
+
+
 <style lang="stylus">
 
 .projects-page
