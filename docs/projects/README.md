@@ -16,7 +16,7 @@ Here are some works of mine :books:
    
    Image Source: pixabay
   
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  [[Jupyter Notebook](https://github.com/FlashZHY/Use-NLP-to-Score-Candidate/blob/main/NLP.ipynb)] [[github](https://github.com/FlashZHY/Use-NLP-to-Score-Candidate)]
 
 </ProjectCard>
 
