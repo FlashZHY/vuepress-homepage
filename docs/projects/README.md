@@ -2,7 +2,6 @@
 pageClass: projects-page
 ---
 
-# Work
 
 Here are some works of mine :books:
 
