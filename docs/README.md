@@ -16,7 +16,7 @@ socials:
     icon: "/icons/instagram-mono.svg"
     link: https://www.instagram.com
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
+cv: https://drive.google.com/file/d/1Dngk3ROeTp8hExqutnSYNTp48WQPEmEA/view?usp=sharing
 bio: Student at University of Rochester (Seeking full-time job)
 email: Hengyuan.Zhang@ur.rochester.edu
 ---
