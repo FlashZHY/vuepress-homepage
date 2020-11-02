@@ -16,7 +16,19 @@ Here are some works of mine :books:
    
    Image Source: pixabay
   
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  [[Jupyter Notebook](https://github.com/FlashZHY/Use-NLP-to-Score-Candidate/blob/main/NLP.ipynb)] [[github](https://github.com/FlashZHY/Use-NLP-to-Score-Candidate)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/2.jpeg">
+  
+  **Predict House Price**
+  
+   The purpose of this project is to predict the price of a specific house in Rochester based on over 1000 records of house information in Monroe County scraped from trulia.
+   
+   Image Source: Medium
+  
+  [[Jupyter Notebook](https://github.com/FlashZHY/Predict-House-Price/blob/main/Predict%20house%20price.ipynb)] [[github](https://github.com/FlashZHY/Predict-House-Price)]
 
 </ProjectCard>
 
