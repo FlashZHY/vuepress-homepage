@@ -2,23 +2,23 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Hengyuan Zhang
 profile: /profile.jpg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
+    link: https://github.com/FlashZHY
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
+    link: https://www.linkedin.com/in/hengyuan-zhang-780877165/
   - title: instagram
     icon: "/icons/instagram-mono.svg"
     link: https://www.instagram.com
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+bio: Student at University of Rochester (Seeking full-time job)
+email: Hengyuan.Zhang@ur.rochester.edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
