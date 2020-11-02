@@ -50,7 +50,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ebfed51-7db5-45e9-bec3-6e1de3a8d4e1" name="Default Changelist" comment="profile" />
+    <list default="true" id="4ebfed51-7db5-45e9-bec3-6e1de3a8d4e1" name="Default Changelist" comment="profile">
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/1.jpeg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +91,7 @@
       <workItem from="1604292331075" duration="59000" />
       <workItem from="1604292419828" duration="23000" />
       <workItem from="1604292479364" duration="1196000" />
+      <workItem from="1604293820310" duration="441000" />
     </task>
     <task id="LOCAL-00001" summary="profile">
       <created>1604292952088</created>
@@ -118,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604293555664</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="profile">
+      <created>1604293836638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604293836638</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
