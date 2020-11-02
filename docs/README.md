@@ -12,9 +12,7 @@ socials:
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/hengyuan-zhang-780877165/
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+
 
 cv: https://drive.google.com/file/d/1Dngk3ROeTp8hExqutnSYNTp48WQPEmEA/view?usp=sharing
 bio: Student at University of Rochester (Seeking full-time job)
