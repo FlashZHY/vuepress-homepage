@@ -9,12 +9,11 @@ Here are some works of mine :books:
 ## Projects
 
 <ProjectCard image="/projects/1.png">
-
-  Harry P., Hermione G., *et al*
   
-  **The Making of Harry Potter's Wand**
+  **Use NLP to Score Candidate**
   
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
+   This project helps recruiter find the best match for a particular job from a bunch of resumes by building up a scoring model to score each candidate based on the degree of match.
+   Image Source: pixabay
   
   [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
 
