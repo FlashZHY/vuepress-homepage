@@ -57,6 +57,17 @@ Here are some works of mine :books:
 </ProjectCard>
 
 
+<ProjectCard image="/projects/5.jpeg">
+  
+  **Scrape Vacation Rental Price from Vrbo**
+  
+   The purpose of this project is to scrape the vacation rental price for later visualization and machine learning. Here I use Munich as an example, you can change the city to whatever you want.
+ 
+  [[Jupyter Notebook](https://github.com/FlashZHY/Scrape-Vacation-Rental-Price-from-Vrbo/blob/main/Scrape%20Vacation%20Rental%20Price%20from%20Vrbo.ipynb)] [[github](https://github.com/FlashZHY/Scrape-Vacation-Rental-Price-from-Vrbo)]
+
+</ProjectCard>
+
+
 <style lang="stylus">
 
 .projects-page
