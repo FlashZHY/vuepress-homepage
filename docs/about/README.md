@@ -2,7 +2,7 @@
 pageClass: about-page
 description: 'The biography and information about me.'
 avatar: /profile.jpg
-head: 'Hengyuan'
+head: 'Hengyuan Zhang'
 info: 'Master Student at UR (Seeking full-time job)'
 interests: 'Interests: Quidditch and Wizard chess.'
 socials:
