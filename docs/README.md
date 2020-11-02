@@ -44,11 +44,15 @@ July. 2017 - Aug. 2017
 ## Awards & Honors
 
 ### Contests
-
-- First place in **The Hogwarts House Cup**
+- **2nd Prize of Huawei Financial Challenge** 2018
+- **2nd Prize of National English Competition for College Students** 2017
+- **3rd Prize of 13th Advanced Mathematics Competition, Jiangsu Prov.** 2016
 
 ### Scholarships
-- **National Scholarship** 2017
+- **The 5th Auditor General Scholarship** 2017 <br/>
+Top 0.3%
+- **National Scholarship** 2017 <br/>
+Top 0.3%
 
 
 
