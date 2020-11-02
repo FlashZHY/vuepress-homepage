@@ -32,6 +32,18 @@ Here are some works of mine :books:
 
 </ProjectCard>
 
+<ProjectCard image="/projects/3.png">
+  
+  **Construct Portfolio Using FF Factor**
+  
+   The purpose of this project is to construct optimal portfolio using Fama-French factors.
+   
+   Image Source: CGTN
+  
+  [[Jupyter Notebook](https://github.com/FlashZHY/Construct-Portfolio-Using-FF-Factor/blob/master/Final%20Project%20Team%2032%20(Cohort%202)%20.ipynb)] [[github](https://github.com/FlashZHY/Construct-Portfolio-Using-FF-Factor)]
+
+</ProjectCard>
+
 
 <style lang="stylus">
 
