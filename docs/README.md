@@ -23,9 +23,9 @@ email: Hengyuan.Zhang@ur.rochester.edu
 
 ## About Me
 
-I'm a Master student in [Finance](https://simon.rochester.edu/programs/full-time-ms-in-finance/index.aspx) at [University of Rochester](https://www.rochester.edu). Now, I am actively seeking full time **data analyst** job.
+I'm a Master student in [Finance](https://simon.rochester.edu/programs/full-time-ms-in-finance/index.aspx) at [University of Rochester](https://www.rochester.edu). Now, I am actively seeking full-time **data analyst** job.
 
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+My interests include: 
 
 
 ## News
