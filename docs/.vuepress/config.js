@@ -13,9 +13,7 @@ module.exports = {
       { text: "Projects", link: "/projects/" },
       { text: "GitHub", link: "https://github.com/FlashZHY" }
     ],
-    sidebar: {
-      '/guide/': genSidebarConfig('Guide')
-    },
+    
     lastUpdated: 'Last Updated'
   },
 
