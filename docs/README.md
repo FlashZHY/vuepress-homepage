@@ -3,7 +3,7 @@ pageClass: home-page
 # some data for the components
 
 name: Hengyuan Zhang
-profile: /1.jpeg
+profile: /profile.jpg
 
 socials:
   - title: github
