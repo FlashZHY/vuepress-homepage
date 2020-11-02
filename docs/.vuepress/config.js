@@ -9,7 +9,6 @@ module.exports = {
     search: false,
     nav: [
       { text: "Home", link: "/" },
-      { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
       { text: "GitHub", link: "https://github.com/FlashZHY" }
     ],

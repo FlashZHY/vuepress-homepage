@@ -12,6 +12,9 @@ socials:
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/hengyuan-zhang-780877165/
+  - title: instagram
+    icon: "/icons/instagram-mono.svg"
+    link: https://www.instagram.com/flashzhy/
 
 
 cv: https://drive.google.com/file/d/1Dngk3ROeTp8hExqutnSYNTp48WQPEmEA/view?usp=sharing
@@ -25,54 +28,32 @@ email: Hengyuan.Zhang@ur.rochester.edu
 
 I'm a Master student in [Finance](https://simon.rochester.edu/programs/full-time-ms-in-finance/index.aspx) at [University of Rochester](https://www.rochester.edu). Now, I am actively seeking full-time **data analyst** job.
 
-My interests include: 
+My interests include: Basketball, [Photography](https://www.instagram.com/flashzhy/) and Video Editing
 
 
-## News
 
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+## Education
 
-
-## Education & Experiences
-
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
-
-
-## Projects
-
-
-[→ Full list](/projects/)
-
-<ProjectCard image="/projects/1.png" hideBorder=true>
-
-  **The Making of Harry Potter's Wand**
-
-  Harry P., Hermione G., *et al*
-  
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
-
-</ProjectCard>
-
-<ProjectCard hideBorder=true>
-
-  **Harry Potter and the Deathly Hallows**
-  
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
-
-  [[Link](https://www.google.com)]
-
-</ProjectCard>
-
+- **Simon Business School, University of Rochester, Rochester, NY** <br/>
+Sep. 2019 - Present
+- **School of Management, Nanjing Audit University, China** <br/>
+Sep. 2015 - June. 2019
+- **Alliance Manchester Business School, University of Manchester, Manchester, UK** <br/>
+July. 2017 - Aug. 2017
 
 ## Awards & Honors
 
 ### Contests
+- **2nd Prize of Huawei Financial Challenge** 2018
+- **2nd Prize of National English Competition for College Students** 2017
+- **3rd Prize of 13th Advanced Mathematics Competition, Jiangsu Prov.** 2016
 
-- First place in **The Hogwarts House Cup**
+### Scholarships
+- **The 5th Auditor General Scholarship** 2017 <br/>
+Top 0.3%
+- **National Scholarship** 2017 <br/>
+Top 0.3%
+
 
 
 <!-- Custom style for this page -->
