@@ -7,6 +7,18 @@ Here are some works of mine :books:
 
 ## Projects
 
+<ProjectCard image="/projects/6.jpeg">
+  
+  **Visualization and Prediction of 2020 Debates**
+  
+   This project shows the interesting things I found in the 2 debate, including presenting the Heat Map of the discussion, building the Word Cloud of two candidates as well as performing Sentiment Analysis. Also, I build up a Machine Learning model to classify the sentences to two candidates.
+   
+   Image Source: The NewsHouse
+  
+  [[Jupyter Notebook](https://github.com/FlashZHY/Visualization-and-Prediction-of-2020-Debates/blob/main/Visualization%20and%20Prediction%20of%202020%20Debates.ipynb)] [[github](https://github.com/FlashZHY/Visualization-and-Prediction-of-2020-Debates)]
+
+</ProjectCard>
+
 <ProjectCard image="/projects/1.png">
   
   **Use NLP to Score Candidate**
