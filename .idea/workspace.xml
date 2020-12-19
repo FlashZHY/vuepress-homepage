@@ -51,7 +51,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ebfed51-7db5-45e9-bec3-6e1de3a8d4e1" name="Default Changelist" comment="project1">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/projects/6.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +96,7 @@
       <workItem from="1604292479364" duration="1196000" />
       <workItem from="1604293820310" duration="1575000" />
       <workItem from="1604305080725" duration="2706000" />
-      <workItem from="1608420275426" duration="353000" />
+      <workItem from="1608420275426" duration="686000" />
     </task>
     <task id="LOCAL-00001" summary="profile">
       <created>1604292952088</created>
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604330589420</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="project1">
+      <created>1608420813717</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608420813717</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,13 +215,25 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="571" y="354" key="Github.CreateGistDialog/0.23.1440.828@0.23.1440.828" timestamp="1604292665391" />
+    <state x="375" y="310" key="Github.CreatePullRequestDialog" timestamp="1608420626237">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="375" y="310" key="Github.CreatePullRequestDialog/0.23.1440.828@0.23.1440.828" timestamp="1608420626237" />
+    <state x="554" y="340" key="Github.ShareDialog" timestamp="1608420739387">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="554" y="340" key="Github.ShareDialog/0.23.1440.828@0.23.1440.828" timestamp="1608420739387" />
     <state x="266" y="85" key="SettingsEditor" timestamp="1604292903637">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="266" y="85" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1604292903637" />
-    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1604292960148">
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1608420596256">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1604292960148" />
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1608420596256" />
+    <state x="347" y="232" key="git4idea.merge.GitMergeDialog" timestamp="1608420609994">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="347" y="232" key="git4idea.merge.GitMergeDialog/0.23.1440.828@0.23.1440.828" timestamp="1608420609994" />
   </component>
 </project>
