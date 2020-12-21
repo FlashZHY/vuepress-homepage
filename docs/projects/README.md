@@ -15,7 +15,7 @@ Here are some works of mine :books:
    
    Image Source: The NewsHouse
   
-  [[Jupyter Notebook](https://github.com/FlashZHY/Visualization-and-Prediction-of-2020-Debates/blob/main/Visualization%20and%20Prediction%20of%202020%20Debates.ipynb)] [[github](https://github.com/FlashZHY/Visualization-and-Prediction-of-2020-Debates)]
+  [[Jupyter Notebook](https://nbviewer.jupyter.org/github/FlashZHY/Visualization-and-Prediction-of-2020-Debates/blob/main/Visualization%20and%20Prediction%20of%202020%20Debates.ipynb)] [[github](https://github.com/FlashZHY/Visualization-and-Prediction-of-2020-Debates)]
 
 </ProjectCard>
 
@@ -27,7 +27,7 @@ Here are some works of mine :books:
    
    Image Source: Pixabay
   
-  [[Jupyter Notebook](https://github.com/FlashZHY/Use-NLP-to-Score-Candidate/blob/main/NLP.ipynb)] [[github](https://github.com/FlashZHY/Use-NLP-to-Score-Candidate)]
+  [[Jupyter Notebook](https://nbviewer.jupyter.org/github/FlashZHY/Use-NLP-to-Score-Candidate/blob/main/NLP.ipynb)] [[github](https://github.com/FlashZHY/Use-NLP-to-Score-Candidate)]
 
 </ProjectCard>
 
