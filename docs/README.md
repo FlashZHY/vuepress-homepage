@@ -25,7 +25,7 @@ email: Hengyuan.Zhang@ur.rochester.edu
 
 I'm a Master student in [Finance](https://simon.rochester.edu/programs/full-time-ms-in-finance/index.aspx) at [University of Rochester](https://www.rochester.edu). Now, I am actively seeking full-time **data analyst** job.
 
-My interests include: Basketball, [Photography](https://www.instagram.com/flashzhy/) and Video Editing
+My interests include: Basketball, Photography and Video Editing
 
 
 
