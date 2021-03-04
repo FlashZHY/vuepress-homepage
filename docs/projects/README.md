@@ -51,7 +51,7 @@ Here are some works of mine :books:
    
    Image Source: CGTN
   
-  [[Jupyter Notebook](https://github.com/FlashZHY/Construct-Portfolio-Using-FF-Factor/blob/master/Final%20Project%20Team%2032%20(Cohort%202)%20.ipynb)] [[github](https://github.com/FlashZHY/Construct-Portfolio-Using-FF-Factor)]
+  [[Jupyter Notebook](https://nbviewer.jupyter.org/github/FlashZHY/Construct-Portfolio-Using-FF-Factor/blob/master/Final%20Project%20Team%2032%20%28Cohort%202%29%20.ipynb)] [[github](https://github.com/FlashZHY/Construct-Portfolio-Using-FF-Factor)]
 
 </ProjectCard>
 
